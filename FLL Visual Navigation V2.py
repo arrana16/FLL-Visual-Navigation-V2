@@ -4,8 +4,8 @@ warnings.filterwarnings("ignore")
 
 done=False
 
-bg = pygame.image.load('/Users/abdur-rahmanrana/Documents/Coding Projects/FLL Digital Ruler/FLL-Replay-Mat.gif')
-robot_image = pygame.image.load('/Users/abdur-rahmanrana/Documents/Robot Things/Robot Models/robot17 Odometry Render.png')
+bg = pygame.image.load('FLL-Replay-Mat.gif')
+robot_image = pygame.image.load('robot17 Odometry Render.png')
 
 screen = pygame.display.set_mode((1124,629))
 
